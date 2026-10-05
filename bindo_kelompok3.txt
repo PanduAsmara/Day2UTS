@@ -1,0 +1,81 @@
+﻿=== slide1.xml ===
+Identifying Kelompok 3 Diksi dan kalimat efektif
+
+=== slide2.xml ===
+anggota kelompok 1. Rizqy Aditia Pratama : 2607421081 2. Latisha Nurus Syifa : 2607421069 3. Diaz Ariesta Alfarizi : 2607421067 4. Rakha Aldapin Wiryawan : 2607421084 5. Muhammad Irfan Zain : 2607421039 6. Marvel Manuel Singgih : 2607421046 7. Vigo Danis Wara Satya : 2607421068
+
+=== slide3.xml ===
+pengertian diksi Diksi adalah kemampuan membedakan secara nuansa - nuansa makna dari gagasan yang ingin disampaikan dan kemampuan untuk menemukan bentuk yang sesuai (cocok) dengan situasi dan nilai rasa yang dimiliki kelompok masyarakat pendengar.
+
+=== slide4.xml ===
+Membuat pembaca atau pendengar mengerti secara benar dan tidak salah paham Fungsi Diksi Untuk mencapai target komunikasi yang efektif Melambangkan gagasan yang di ekspresikan secara verbal Membentuk gaya ekspresi gagasan yang tepat (sangat resmi, resmi, tidak resmi) sehingga menyenangkan pembaca atau pendenganr
+
+=== slide5.xml ===
+Prinsip Pemilihan Kata  Dalam proses pemilihan kata, terdapat empat prinsip utama yang wajib dipenuhi agar pesan dapat tersampaikan secara tepat:  Ketepatan : kemampuan memilih kata secara akurat agar gagasan yang ditangkap pembaca sama persis dengan yang dipikirkan penulis. Kecermatan : Memilih kata yang efisien, tidak berlebihan, dan sesuai konteks agar kalimat menjadi efektif dan tidak rancu. Kesesuaian : kecocokan penggunaan kata dengan situasi yang akan diciptakan, yang membentuk suasana positip bagi kejiwaan penulis maupun pembaca, pembicara dan pendengar. Kelaziman : Menyunting kelaziman kata dalam naskah ilmiah membantu penulis memastikan bahwa pilihan kata dalam naskah lazim.
+
+=== slide6.xml ===
+Tidak dipengaruhi bahasa daerah. Tidak dipengaruhi bahasa asing. Bukan merupakan ragam bahasa percakapan. penggunaan kata baku dan tidak baku Kata baku adalah ragam bahasa yang cara pengucapan dan penulisannya sesuai dengan kaidah-kaidah standar. Kaidah standar dapat berupa pedoman ejaan (EYD), tata bahasa baku, dan kamus umum. Kata baku mempunyai ciri, yaitu : 
+
+=== slide7.xml ===
+Baku: Ia mendengarkan radio. Baku: menghemat waktu. Baku: Anak itu menangis. Tidak baku: Ia dengarkan radio. Tidak baku: mempersingkat waktu. Tidak baku: Anak itu nangis. Contoh penerapan kata baku dan tidak baku
+
+=== slide8.xml ===
+Pengertian dan ciri makna denotasi Makna denotasi merujuk pada makna kata yang sebenarnya. Makna ini muncul secara murni tanpa adanya tambahan makna kiasan maupun kontekstual. Secara tegas, denotasi adalah makna asli suatu kata yang sama sekali tidak mengandung tambahan makna atau perasaan tertentu. Selain itu, ciri-ciri denotasi adalah sebagai berikut: Menunjuk pada makna yang sebenarnya. Bukan makna yang sifatnya kiasan Tidak mengandung tambahan makna atau perasaan tambahan sedikit pun.
+
+=== slide9.xml ===
+Harus dikaitkan dengan asosiasi-asosiasi tertentu. Tidak dapat diartikan begitu saja sesuai dengan wujud kata atau wujud frasanya. Makna konotasi adalah makna yang bersifat asosiatif, di mana arti suatu kata sangat dipengaruhi oleh asosiasi atau nilai rasa yang menyertainya. Makna ini tidak bisa dilepaskan dari situasi penggunanya, sehingga konotasi sering juga disebut sebagai makna kontekstual. Ciri-ciri makna konotasi sebagai berikut: Pengertian dan ciri makna konotasi
+
+=== slide10.xml ===
+Perbedaan dan contoh penggunaan kalimat denotasi dan konotasi Makna denotasi ialah makna kata yang tidak mengandung tambahan makna atau perasaan tambahan, sedangkan makna konotasi adalah makna kata yang harus dikaitkan dengan asosiasi asosiasi tertentu yang dimungkinkan hadir di dalam proses pemaknaan itu. Contoh : “Kursi paling depan seakan sudah menjadi daerah kekuasaan kaum hawa.” (Konotasi) “Kursi-kursi paling depan dikelasku ditempati oleh anak-anak perempuan.” (Denotasi)
+
+=== slide11.xml ===
+Sinonim  Sinonim sebagai ungkapan (bisa berupa kata, frasa, dan kalimat) yang maknanya kurang lebih sama dengan makna ungkapan lain. Contoh: Kata buruk dan jelek, mati dan wafat
+
+=== slide12.xml ===
+Penggunaan istilah khusus Ketepatan dalam meilihan kata berkaitan dengan kemampuan memilih kata yang dapat mengungkapkan gagasan secara tepat dan gagasan itu dapat diterima secara tepat pula oleh pembaca atau pendengar.  Ketepatan pilihan kata semacam itu dapat dicapai jika pemakai bahasa mampu memahami perbedaan penggunaan kata-kata yang bermakna  Denotasi dan konotasi Sinonim Eufemisme Generik dan spesifik Konkret dan abstrak
+
+=== slide13.xml ===
+kalimat efektif Kalimat efektif adalah kalimat yang mampu menyampaikan pesan, gagasan, atau informasi secara tepat, jelas, dan akurat kepada pembaca atau pendengar sesuai dengan maksud penulis atau pembicara. Kalimat efektif bukan sekadar kalimat yang benar secara tata bahasa, tetapi juga kalimat yang mampu mencapai tujuan komunikasi dengan cara yang paling lugas dan tidak menimbulkan penafsiran ganda. 
+
+=== slide14.xml ===
+tujuan kalimat efektif Menyampaikan pesan secara tepat dan jelas  Menghindari ambiguitas dan kesalahpahaman Menciptakan komunikasi yang efisien dan bermakna Mudah dipahami oleh pembaca
+
+=== slide15.xml ===
+ciri utama kalimat efektif KESEPADANAN Struktur kalimat harus jelas dan seimbang, terutama hubungan  Subjek (S) dan Predikat (P). ✗ Bagi peserta diharapkan hadir tepat waktu. ✓ Peserta diharapkan hadir tepat waktu.  KEHEMATAN KATA Gunakan kata secukupnya tanpa mengurangi makna; hindari kata mubazir dan pengulangan. ✗ Para mahasiswa-mahasiswa sedang belajar. ✓ Para mahasiswa sedang belajar.  KEPARALELAN / KESEJAJARAN Unsur yang sederajat harus memiliki bentuk gramatikal yang sejajar. ✗ Mengumpulkan data, menganalisis data, dan penyusunan laporan. ✓ Mengumpulkan data, menganalisis data, dan menyusun laporan.  Intinya: kalimat efektif memiliki struktur yang lengkap, ringkas, dan konsisten sehingga gagasan mudah dipahami.
+
+=== slide16.xml ===
+PRINsip - prinsip kalimat efektif 1. Kesepadanan struktur 3. Kehematan kata 5. Kepaduan 2. Keparalelan bentuk 4. Kecermatan 6. Kelogisan bahasa
+
+=== slide17.xml ===
+Prinsip-prinsip kalimat efektif 1) Kesepadanan struktur = Keseimbangan antara gagasan dan struktur 2) Keparalelan bentuk = kesamaan bentuk kata 3) Kehematan kata = hemat menggunakan kata, frasa, atau bentuk lain yang tidak diperlukan. - Kalimat itu mempunyai subjek dan predikat yang jelas - Tidak terdapat subjek yang ganda -Kata penghubung intrakalimat tidak dipakai sebagai kalimat tunggal - Predikat kalimat tidak didahului kata &quot;yang&quot; Jika bentuk pertama nomina, maka bentuk selanjutnya juga nomina.  - Menghilangkan pengulangan subjek - Menghindarkan pemakaian superordinat pada hiponimi kata -Menghindarkan kesinoniman dalam satu kalimat -Menjamakkan kata-kata yang berbentuk jamak
+
+=== slide18.xml ===
+4) Kecermatan =  - Tidak mengandung tafsiran ganda - Tepat dalam pemilihan kata • Tidak bertele - tele dan mencerminkan cara berpikir yang tidak simetris • Mempergunakan pola aspek + agen + verbal dan berpredikat pasif persona • Tidak perlu menyisipkan daripada atau tentang 6) Kelogisan bahasa  Mengandung konsep keberterimaan oleh akal dan logika dan kecermatan dalam penalaran. 5) Kepaduan = kepaduan pernyataan dalam kalimat sehingga informasi tidak terpecah-pecah
+
+=== slide19.xml ===
+Analisis perbaikan kalimat tidak efektif • Kesatuan gagasan  • Kepaduan • Kehematan • Kecermatan  • Kesejajaran • Penalaran • Penggunaan ejaan Bentuk kesalahan kalimat Langkah Langkah memperbaiki kalimat tidak efektif 1. Tentukan gagasan utama 2. Periksa subjek dan predikat 3. Hapus kata yang tidak perlu 4. Pilih kata yang mudah dipahami 5. Susun kalimat 6. Periksa ejaan dan tanda baca Contoh study kasus &quot;Para mahasiswa-mahasiswa sedang melakukan penelitian di dalam kampus&quot; Dibenarkan menjadi: &quot;Para mahasiswa sedang melakukan penelitian di kampus&quot;
+
+=== slide20.xml ===
+Diksi adalah pemilihan kata yang benar sesuai dengan makna, aturan kata yang benar, serta prinsip kebenaran, ketelitian, kesesuaian, dan kebiasaan yang umum digunakan agar tidak terjadi kesalahpahaman dalam penulisan yang berupa karya akademis. Menggunakan arti sebenarnya, kata-kata yang memiliki arti sama, serta istilah tertentu secara tepat memastikan pesan disampaikan dengan jelas tanpa terganggu oleh bahasa tutur, bahasa daerah, atau bahasa asing. Berkolaborasi dengan diksi, kalimat yang efektif dan memenuhi prinsip kesepadanan struktur, keparalelan, kehematan, kecermatan, kepaduan, serta kelogisan, memastikan pesan dapat diterima oleh pembaca secara tepat dan masuk akal. Dengan demikian, cara memperbaiki kalimat agar lebih efektif adalah dengan memeriksa struktur subjek-predikat, menghilangkan kata-kata yang tidak perlu, serta memastikan ejaan tepat, hal ini menjadi faktor penting dalam menjaga kredibilitas tulisan ilmiah. Kesimpulan 
+
+=== slide21.xml ===
+Rumalean, I. (2022). Bahasa Indonesia Untuk Perguruan Tinggi. Depok: PT Raja Grafindo Persada.  https://www.researchgate.net/publication/375453311_Bahasa_Indonesia_Untuk_Perguruan_Tinggi Lering, M. E. D., dkk. (2022). Bahasa Indonesia untuk Perguruan Tinggi. Pidie: Yayasan Penerbit Muhammad Zaini.  https://www.researchgate.net/publication/374328371_Bahasa_Indonesia_Untuk_Perguruan_Tinggi Rahardi, R.Kunjana. (2009). Penyuntingan Bahasa Indonesia untuk Karang-Mengarang. Penerbit Erlangga. Waridah, E. (2016). EYD: Ejaan yang disempurnakan &amp; seputar kebaha-Indonesiaan. Ruang Kata. Bahtiar, A., &amp; Fatimah. (2017). Bahasa Indonesia untuk Perguruan Tinggi. Penerbit IN Media. Arifin, E.Z., &amp; Tasai, S.A. (2010). Cermat berbahasa Indonesia untuk perguruan tinggi (Edisi Revisi). Akademika Pressindo. Pertiwi, S. (2025). Keefektifan Kalimat dalam Teks Laporan Hasil Observasi. Edu Research: Jurnal Penelitian Pendidikan, 6(1). URL:  https://iicls.org/index.php/jer/article/view/785 Daftar Pustaka 
+
+=== slide22.xml ===
+Sukma, L., dkk. (2025). Penggunaan Kalimat Efektif dalam Teks Eksplanasi Siswa Kelas IX SMP Negeri 30 Padang. Edu Research: Jurnal Penelitian Pendidikan, 6(2), 1725–1735. URL:  https://iicls.org/index.php/jer/article/view/994 Siregar, R., dkk. (2025). Keefektifan Kalimat Dalam Teks Biografi Siswa Kelas X SMA Negeri 1 Ranah Pesisir. Edu Research: Jurnal Penelitian Pendidikan, 6(1), 585–596. URL:  https://iicls.org/index.php/jer/article/view/593 Nurfalah, A., dkk. (2026). Analisis Penyuntingan Kalimat Efektif pada Naskah Novel.  Protasis: Jurnal Bahasa, Sastra, Budaya, dan Pengajarannya , 5(1). URL:  https://protasis.amikveteran.ac.id/ Sudarja, K. (2024). Analisis Kalimat Tidak Efektif pada Teks Karangan Argumentasi Mahasiswa Teologi di Jakarta.  Journal of Education Research , 5(1), 858–874. URL:  https://jer.or.id/index.php/jer/article/view/914 Listika, M., Susetyo, &amp; Yanti, N. (2019). Penggunaan Kalimat Efektif pada Artikel Open Journal System (OJS) Korpus. Jurnal Ilmiah KORPUS, 3(2). URL:  https://ejournal.unib.ac.id/index.php/korpus/article/view/10202 Mirnawati, M. (n.d.).  Buku ajar penyuntingan bahasa . Universitas Negeri Gorontalo. Daftar Pustaka 
+
+=== slide23.xml ===
+Daftar pustaka buku cetak
+
+=== slide24.xml ===
+Daftar pustaka buku cetak
+
+=== slide25.xml ===
+Daftar pustaka buku cetak
+
+=== slide26.xml ===
+Daftar pustaka buku cetak
+
+=== slide27.xml ===
+thank you for listening
+

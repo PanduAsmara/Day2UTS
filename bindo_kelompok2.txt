@@ -1,0 +1,81 @@
+﻿=== slide1.xml ===
+EJAAN DAN TANDA BACA DALAM BAHASA INDONESIA Oleh Kelompok 2
+
+=== slide2.xml ===
+ Anggota Kelompok Alfi Ramadhan Permana Putra Fadha Dangsati Ababil Faiz Ardian Syahbani Muhammad Abyan Hafiz Rizki Fauzan       2607421066 2607421033 2607421009 2607421040 Sena Renjiro Wibisono Zahra Shafa Salsabila Lubis 2607421007 2607421071 2607421010
+
+=== slide3.xml ===
+Pedoman Ejaan Bahasa Indonesia  Pedoman ejaan bahasa Indonesia merupakan aturan penulisan yang baik dan benar. Pedoman ejaan bahasa Indonesia yang digunakan saat ini adalah Ejaan yang Disempurnakan Edisi V (EYD Edisi V) Sebagai landasan normatif, (EYD edisi V) berfungsi mengatur konsistensi bentuk tulisan melalui aturan pemakaian huruf, penulisan kata, dan penggunaan tanda baca (Aningsih, dkk., 2026:315). Dengan adanya pedoman, masyarakat Indonesia lebih bisa menggunakan bahasa Indonesia dengan tepat sesuai dengan pedoman yang berlaku. 
+
+=== slide4.xml ===
+Penggunaan Huruf Menurut Utami (2023),   penggunaan huruf bukan sekadar urusan estetika tulisan, melainkan indikator utama yang menunjukkan tingkat kecermatan, kualitas, dan profesionalisme seorang penulis akademis. Jika ejaan kita salah, makna kalimat bisa bergeser atau membuat pembaca bingung.
+
+=== slide5.xml ===
+Huruf Kapital huruf kapital berfungsi sebagai penanda awal kalimat dan identitas nama diri. Ada empat aturan pokok yang wajib kita perhatikan: Pertama, Awal Kalimat. Kata paling depan wajib kapital, contohnya huruf 'P' pada kata 'Penelitian' ; Kedua, Nama Diri dan Gelar. Jika gelar akademik atau keagamaan melekat pada nama orang, wajib kapital. Contoh: 'Prof. Dr. Hasanuddin ' ; Ketiga, Nama Geografi. Penting diingat, kapital digunakan jika merujuk pada wilayah spesifik, seperti 'Selat Sunda' atau 'Pulau Jawa' ; Keempat, Hal Keagamaan dan Ketuhanan. Nama agama, kitab suci .
+
+=== slide6.xml ===
+Huruf Miring Menurut Marselina (2022), kesalahan pada huruf miring sering terjadi saat penulis memasukkan istilah asing ke dalam teks. Fungsi huruf miring mencakup tiga hal: Menuliskan Istilah Asing atau Daerah yang belum diserap ke Bahasa Indonesia. Contohnya istilah ' problem-based learning ' ; Menuliskan Judul Karya Tulis seperti nama buku atau nama jurnal, contohnya jurnal ' Sintaks ' ; Untuk Penegasan Bagian Kata yang ingin disorot . Namun ada pengecualian penting: Jangan memiringkan nama lembaga, organisasi, atau merek meskipun menggunakan bahasa asing. Misalnya nama universitas asing atau merek dagang, itu tetap ditulis tegak.
+
+=== slide7.xml ===
+Huruf Tebal Marselina (2022) menemukan banyak penulis yang salah kaprah menggunakan huruf tebal untuk menekan kata-kata penting di tengah kalimat. Padahal, untuk memberi penekanan dalam kalimat, kita harus menggunakan huruf miring, bukan huruf tebal. Huruf tebal diibaratkan sebagai 'rambu penunjuk jalan' dokumen. Fungsinya ada tiga: Menegaskan Struktur Tulisan, seperti Judul Bab (' BAB I PENDAHULUAN ') atau Judul Tabel ; Menyoroti Kesalahan Ejaan dalam konteks analisis bahasa, agar mata pembaca langsung tertuju pada bagian yang salah ; Menyoroti Imbuhan, misalnya saat kita menganalisis makna awalan atau akhiran seperti '- wan ' pada kata  rupawan .
+
+=== slide8.xml ===
+Penulisan kata, kata depan   Kata depan (preposisi) adalah kata yang terletak di depan nomina (kata benda), pronomina (kata ganti), atau frasa benda untuk menghubungkannya dengan bagian kalimat lain. Kata depan biasanya menunjukkan tempat, arah, waktu, atau tujuan.
+
+=== slide9.xml ===
+Imbuhan bunyi atau bentuk bahasa yang ditambahkan pada kata dasar—baik di awal, tengah, akhir, maupun gabungan—untuk membentuk kata baru yang memiliki arti dan fungsi berbeda
+
+=== slide10.xml ===
+Gabungan Kata Penulisan Gabungan Kata (Erwina, 2024) Penulisan Terpisah (Umum): rumah sakit, kerja sama, orang tua, tanda tangan Dianggap Padu (Ditulis Serangkai): daripada, bagaimana, matahari, olahraga, sukacita Mendapat Imbuhan Sebagian (Tetap Terpisah): bertanggung jawab, tanda tangani, berkerja sama Mendapat Imbuhan Sekaligus (Dirangkai): mempertanggungjawabkan, menandatangani, menggarisbawahi 
+
+=== slide11.xml ===
+Singkatan dan Akronim Penulisan Singkatan &amp; Akronim (Erwina, 2024) Aturan Singkatan (Hasil Pemendekan Kata): Gelar/Jabatan/Nama: Menggunakan titik (Dr., Prof., Sdr.) Surat-menyurat (2 Huruf): Pakai titik tiap huruf (a.n., s.d., u.b.) Umum (3+ Huruf): Satu titik di akhir (dll., dsb., dst.) Lembaga / Dokumen Resmi: Kapital tanpa titik (DPR, KTP, SIM) Ukuran, Kimia, &amp; Mata Uang: Tanpa titik (kg, cm, Rp) Aturan Akronim (Dapat Dilafalkan Sebagai Kata): Nama Diri (Huruf Awal): Kapital semua tanpa titik (BIN, LIPI) Nama Diri (Suku Kata): Kapital di awal kata (Bappenas, Bulog) Bukan Nama Diri: Huruf kecil semua (pemilu, puskesmas, tilang) 
+
+=== slide12.xml ===
+Penulisan Unsur Serapan  Dalam perkembangannya, bahasa Indonesia menyerap unsur dari berbagai bahasa. Unsur serapan dalam bahasa Indonesia dapat dibagi menjadi dua kelompok besar.  1) Unsur asing yang belum sepenuhnya terserap unsur asing tersebut yang cara pengucapan dan penulisannya masih mengikuti cara asing. Bahasa : Inggris Unsur Serapan : Reshuffle  2) Unsur asing yang sudah disesuaikan unsur asing yang penulisan dan pengucapannya disesuaikan dengan kaidah bahasa Indonesia. Bentuk Asing : Central  Bentuk Bahasa Indonesia : Sentral   penyerapan istilah asing tidak dilakukan secara bebas, tetapi mengikuti kaidah penyesuaian tertentu agar istilah asing dapat digunakan secara tepat dalam struktur bahasa Indonesia (Putri et al., 2026). 
+
+=== slide13.xml ===
+Penggunaan Tanda baca, Tanda Titik Penggunaan tanda baca diatur dalam BAB III Pedoman Umum Ejaan Bahasa Indonesia (PUEBI). Penerapan tanda baca yang benar bertujuan untuk memperjelas struktur kalimat dan menghindari kesalahpahaman pengertian penulis bagi pembaca. Tanda baca berfungsi menunjukkan struktur dan organisasi tulisan serta mengatur jeda bacaan, dengan aturan yang terus berkembang di setiap bahasa (Gowasa, 2024).  Erwina (2024)  Penanda Akhir Kalimat:  Dia akan datang pada pertemuan itu. Pengatur Hierarki Visual:  Bahasa Indonesia             1. Kedudukan              2. Fungsi Patokan umum             1. Isi karangan             2. Ilustrasi   Tanda Baca Penggunaan Tanda Titik Pemisah Kuantitas Waktu:  Pukul 01.35.20 (1 jam, 35 menit, 20 detik) Struktur Daftar Pustaka: Pusat Bahasa, Departemen Pendidikan Nasional. 2008.  Peta Bahasa di Negara Kesatuan Republik Indonesia.  Jakarta. Moeliono, Anton M. 1989.  Kembara Bahasa . Jakarta: Gramedia.  Indikator Numerik: Indonesia memiliki lebih dari 13.000 pulau 
+
+=== slide14.xml ===
+Tanda Koma Penggunaan Tanda Koma ( , ) (Erwina, 2024) Rincian &amp; Konjungsi Pertentangan: Telepon seluler, komputer, atau internet... Saya ingin membeli kamera, tetapi uangnya belum cukup. Anak Kalimat Mendahului Induk Kalimat: Kalau diundang, saya akan datang. (Bandingkan: Saya akan datang kalau diundang) Awal Kalimat (Penghubung Antarkalimat, Kata Seru, Sapaan): Oleh karena itu, dia memperoleh beasiswa... Hati-hati, ya, jalannya licin! | Nak, kapan selesai? Petikan Langsung: Kata nenek saya, “Kita harus berbagi...” (Kecuali jika diakhiri ? atau !) Alamat, Gelar Akademik, &amp; Angka Desimal/Rupiah: Jakarta, 11 Desember 2025 | Siti Aminah, S.H., M.H. | 12,5 m | Rp750,00 Keterangan Tambahan / Aposisi: Semua siswa, baik laki-laki maupun perempuan, wajib ikut. 
+
+=== slide15.xml ===
+Tanda Titik Dua Penggunaan Tanda Titik Dua ( : ) (Erwina, 2024) Akhir Pernyataan Lengkap (Diikuti Rincian): Memerlukan perabot rumah tangga: kursi, meja, dan lemari. (Bandingkan: Kita memerlukan kursi, meja, dan lemari.) Tanpa titik dua jika langsung bagian kalimat Pemerian (Formulir / Struktur Organisasi): Ketua : Ahmad Wijaya Sekretaris : Siti Aryani Naskah Drama (Percakapan Pelaku): Ibu : “Bawa koper ini, Nak!” Pemisah Penulisan Khusus: Judul &amp; Anak Judul: Dari Pemburu ke Terapeutik: Antologi Cerpen... Kitab Suci (Surah &amp; Ayat): Surah Albaqarah: 2—5 Jilid/Nomor &amp; Halaman: (Jurnal/Majalah) 
+
+=== slide16.xml ===
+Tanda Titik Koma Penggunaan Tanda Titik Koma ( ; ) (Erwina, 2024) Pengganti Kata Hubung (Kalimat Setara): Hari sudah malam; anak-anak masih membaca buku. Ayah menyelesaikan pekerjaan; Ibu menulis makalah; Adik membaca. Akhir Perincian Berupa Klausa: Syarat penerimaan: (1) WNI; (2) sarjana S-1; (3) sehat; dan (4) bersedia ditempatkan. Pemisah Rincian Berunsur Koma: Ibu membeli buku, pensil, dan tinta; baju, celana, dan kaus; pisang, apel, dan jeruk. 
+
+=== slide17.xml ===
+Tanda Hubung Fungsi &amp; Penggunaan Tanda Hubung (-) (Erwina, 2024) Pemenggalan Kata: Di akhir baris (diterapkan juga ca- / ra baru) Kata Ulang: anak-anak, berulang-ulang Tanggal &amp; Ejaan: 11-12-2025, p-a-n-i-t-i-a Kejelasan Makna: ber-evolusi (mencegah salah baca) Penggabungan Huruf Kapital &amp; Angka: se-Indonesia, ke-2 Penggabungan Bahasa Indonesia &amp; Asing: di-backup, me-recall Bentuk Terikat (Objek Bahasan): pasca-, -isasi 
+
+=== slide18.xml ===
+Tanda Petik Penggunaan Tanda Petik (“...”) (Erwina, 2024) Kutipan Langsung: Mengapit ucapan atau naskah tertulis “Merdeka atau mati!” seru Bung Tomo. “Kerjakan tugas ini sekarang!” perintah atasannya. Judul Karya &amp; Bab Buku: Sajak, lagu, film, artikel, atau bab Lagu “Maju Tak Gentar” Sajak “Pahlawanku” Istilah Khusus / Makna Kiasan: Istilah teknis atau konotasi “Tetikus” komputer (istilah kurang dikenal) Memberikan “amplop” (makna khusus: uang pelicin) 
+
+=== slide19.xml ===
+Tanda Kurung Penggunaan Tanda Kurung ( (...) ) (Erwina, 2024) Tambahan Keterangan / Singkatan: surat izin mengemudi (SIM) KTP (kartu tanda penduduk) Keterangan Tambahan (Bukan Bagian Utama): Sajak “Ubud” (nama tempat terkenal di Bali) ditulis tahun 1962. Kata Opsional (Dapat Dimunculkan / Dihilangkan): Menaiki (bus) Transjakarta Berasal dari (Kota) Padang Penanda Rincian / Penomoran: Faktor produksi: (a) bahan baku, (b) biaya, dan (c) tenaga kerja. 
+
+=== slide20.xml ===
+Analisis Contoh Kesalahan Ejaan   1. Kesalahan Penggunaan Huruf :  &quot;mahasiswa politeknik negeri Jakarta&quot; Penulisan yang benar: &quot;Mahasiswa Politeknik Negeri Jakarta&quot; kesalahan : penggunaan huruf kecil pada  huruf pada nama diri dan instansi pendidikan  2. Kesalahan penggunaan Tanda baca  “Jangan buang sampah sembarangan.” Penulisan yang benar: “Jangan buang sampah sembarangan!” kesalahan : tidak adanya tanda seru pada kalimat perintah  3. Kesalahan Penulisan Kata Depan &quot;Dimana dia sekarang&quot; Penulisan yang benar: &quot;Di mana dia sekarang?&quot; kesalahan : &quot;di&quot; digabung pada pernyataan tempat   4. Kesalahan Penulisan Unsur Serapan “Actor” Penulisan yang benar: “Aktor” kesalahan : Bahasa asing di tulis sesuai Bahasa aslinya   Penggunaan ejaan yang tidak sesuai kaidah dapat menyebabkan ambiguitas makna dan menurunkan tingkat keterbacaan suatu tulisan.(Handayani dkk., 2026:1268).
+
+=== slide21.xml ===
+Kesimpulan  Pedoman: Standar penulisan bahasa Indonesia saat ini mengacu pada Ejaan yang Disempurnakan Edisi V (EYD V). Penggunaan Huruf: Huruf kapital untuk awal kalimat/nama diri, huruf miring untuk istilah asing/judul, dan huruf tebal untuk penegas struktur tulisan. Penulisan Kata: Kata depan dipisah, imbuhan dirangkai, serta terdapat aturan khusus untuk kapitalisasi dan tanda titik pada singkatan/akronim. Unsur Serapan: Penulisan kata dari bahasa asing wajib disesuaikan dengan kaidah EYD V. ​Tanda Baca: Berfungsi mengatur jeda dan struktur kalimat guna menghindari kesalahpahaman makna. ​Kesalahan Ejaan: Masih sering ditemukan pada penggunaan huruf kapital, tanda baca di akhir kalimat, kata depan, dan penyesuaian kata serapan.
+
+=== slide22.xml ===
+Daftar Pustaka Aningsih, S., Rasdawita, R., Yusra, H., &amp; Setyonegoro, A. (2026). Analisis kesalahan ejaan menulis teks prosedur siswa kelas VII SMPN 26 Tanjung Jabung Timur.  Kopula: Jurnal Bahasa, Sastra, dan Pendidikan , 8(2), 313–321.  [Akses Jurnal] Badan Pengembangan dan Pembinaan Bahasa. (2022).  Ejaan Bahasa Indonesia yang Disempurnakan (Edisi V) . Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi RI.  [Akses Laman Resmi] Erwina, E. (2024).  Pedoman umum Ejaan Bahasa Indonesia (PUEBI) . Amerta Media.  [ Akses Repositori ] Gowasa, N. (2024). Analisis kesalahan penggunaan tanda baca dalam skripsi mahasiswa.  KOHESI: Jurnal Pendidikan Bahasa dan Sastra Indonesia , 4(2), 54–65.  [Akses Jurnal]
+
+=== slide23.xml ===
+Daftar Pustaka Gusnayetti, G., &amp; Handrina, E. (2024). Penerapan Ejaan Bahasa Indonesia yang Disempurnakan dalam penulisan karya ilmiah mahasiswa di perguruan tinggi.  Jurnal Ilmu Sosial, Humaniora dan Seni , 2(3), 341–347.  [Akses Jurnal] Handayani, S., Kasmantoni, K., &amp; Randi, R. (2026). Analisis kesalahan Ejaan Bahasa Indonesia pada penulisan tugas mahasiswa.  Education and Learning Journal , 5(3), 1267–1275.  [Akses Jurnal] Marselina, S. (2022). Analisis kesalahan Ejaan Bahasa Indonesia pada artikel ilmiah mahasiswa STIE Alam Kerinci.  Sintaks: Jurnal Bahasa &amp; Sastra Indonesia,  2(1), 101–106.   [Akses Jurnal] Putri, A., Putri, H. N., Munjiah, N., Manalu, T. T., &amp; Azizah, N. (2026). Analisis ketepatan penggunaan istilah serapan dalam laporan praktikum mahasiswa kimia.  Jurnal Vokatif,  3(2), 85–95.  [Akses Jurnal]
+
+=== slide24.xml ===
+Daftar Pustaka Sitompul, L., Rahayu, P., &amp; Iskandar, D. (2023). Analisis kesalahan huruf kapital dan tanda baca pada paragraf deskriptif.  Jurnal Pendas , 8(2), 240–250.  [Akses Jurnal] Sugiarto, E. (2023).  Kitab EYD edisi V terlengkap &amp; terbaru . Penerbit ANDI. Utami, R. P. (2023). Penggunaan huruf kapital dan tanda baca pada paragraf dalam karangan ilmiah mahasiswa.  Jurnal Pendas , 8(2), 315–325.  [Akses Jurnal] Waridah, E. (2016).  EYD &amp; seputar kebahasa-Indonesiaan . Ruang Kata.
+
+=== slide25.xml ===
+   Gambar 1. Sampul depan buku EYD &amp; Seputar Kebahasa-Indonesiaan     Gambar 2. Identitas buku EYD &amp; Seputar Kebahasa-Indonesiaan    Gambar 4. Daftar isi 2    Gambar 3. Daftar isi 1 Lampiran
+
+=== slide26.xml ===
+Ada Pertanyaan ?
+
+=== slide27.xml ===
+Terima Kasih
+

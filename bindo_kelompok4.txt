@@ -1,0 +1,67 @@
+=== slide1.xml ===
+PARAGRAF - KELOMPOK 4
+Mata Kuliah: Bahasa Indonesia
+Dosen Pengampu: Dinda Kadarwati, M.Pd
+
+=== slide2.xml ===
+Anggota Kelompok 4:
+1. Abdillah Gumilang (2607421042)
+2. Afif Naufal Bakhtiarrahman (2607421043)
+3. Heru Setyo Utomo (2607421082)
+4. Kayla Marsya Vivathiyah (2607421041)
+5. Khaira Nazira Siregar (2607421034)
+6. Kiana Dyani (2607421036)
+7. Tyas Nurfajriah (2607421038)
+
+=== slide3-5.xml ===
+1. Pengertian dan Fungsi Paragraf (Kiana Dyani)
+- Pengertian: Menurut Chaer (2011: 27-28), paragraf adalah satuan bahasa yang tersusun oleh dua buah kalimat atau lebih di mana kalimat-kalimat tersebut merupakan suatu kesatuan yang utuh baik secara semantik dan sintaksis.
+- Tanda visual: Baris pertama ditulis/diketik menjorok ke dalam sebanyak 5 ketukan dari marjin kiri dan selalu diawali baris baru (Rahardi, 2009).
+- Fungsi Paragraf (Subakti et al., 2021):
+  1. Mengekspresikan gagasan: Membentuk kesatuan ide pokok.
+  2. Menandai peralihan gagasan baru: Membedakan ide namun tetap berhubungan.
+  3. Memudahkan menulis dan membaca.
+  4. Membantu pengembangan topik tulisan menjadi bagian-bagian lebih kecil.
+
+=== slide6-8.xml ===
+2. Gagasan Utama dan Gagasan Penjelas (Khaira Nazira Siregar)
+- Gagasan Utama: Ide pokok yang menjadi dasar pembahasan dan pengendali isi paragraf (Rahardi, 2009).
+- Gagasan Penjelas: Berfungsi mengembangkan dan memperjelas gagasan utama dengan uraian, rincian, atau data pendukung. Terbagi dua:
+  a. Gagasan Mayor (penjelas tingkat pertama langsung ke gagasan utama)
+  b. Gagasan Minor (penjelas tingkat kedua yang menjelaskan gagasan mayor)
+- Hubungan: Hubungan pokok dan pengembang; kalimat penjelas tidak boleh keluar dari topik utama (Kanzunnudin, 2023).
+
+=== slide9-12.xml ===
+3. Syarat Pembentukan Paragraf (Kayla Marsya Vivathiyah)
+- Kesatuan (Unity): Seluruh informasi dalam paragraf dikendalikan oleh satu gagasan utama (Marsa dalam Subakti et al., 2021).
+- Kepaduan (Coherence): Hubungan antarkalimat berjalan wajar, saling terkait, dan mudah dipahami pembaca (Lering et al., 2022).
+- Kohesi (Cohesion): Hubungan keterikatan bentuk pada tingkat struktur internal wacana (Baryadi dalam Subakti et al., 2021).
+- Ketuntasan (Completeness): Semua informasi pendukung disampaikan lengkap sehingga pembaca tidak bertanya-tanya (Kanzunnudin, 2023).
+- Keruntutan (Orderliness): Informasi disajikan berurutan dan tidak melompat-lompat (urutan waktu/kronologis, tempat/spasial, umum-khusus, khusus-umum, sebab-akibat, pertanyaan-jawaban).
+
+=== slide13-14.xml ===
+4. Jenis Paragraf Berdasarkan Letak Gagasan Utama (Tyas Nurfajriah)
+Menurut Suladi dalam Reistanti & Anwar (2022):
+1. Paragraf Deduktif: Gagasan utama terletak di awal paragraf (Umum ke Khusus).
+2. Paragraf Induktif: Gagasan utama terletak di akhir paragraf (Khusus ke Umum).
+3. Paragraf Campuran (Deduktif-Induktif): Gagasan utama di awal dan ditegaskan kembali di akhir paragraf.
+4. Paragraf Ineratif: Gagasan utama terletak di tengah-tengah paragraf.
+5. Ide Pokok Menyebar (Tersirat): Gagasan utama tersebar di seluruh kalimat paragraf (biasanya pada paragraf narasi atau deskripsi).
+
+=== slide15-16.xml ===
+5. Pola Pengembangan Paragraf (Afif Naufal Bakhtiarrahman)
+Menurut Bahtiar & Fatimah (2014):
+1. Pola runtutan ruang dan waktu (kronologis & spasial)
+2. Pola sebab-akibat (kausalitas)
+3. Pola susunan pembanding (perbandingan & pertentangan)
+4. Pola susunan ibarat (analogi)
+5. Pola susunan daftar
+6. Pola susunan contoh (ilustrasi)
+7. Pola susunan bergambar
+
+=== slide17-19.xml ===
+6. Latihan Menyusun dan Memperbaiki Paragraf (Abdillah Gumilang)
+- Langkah penyusunan: Tentukan gagasan utama -> kembangkan kalimat penjelas secara logis dan berurutan.
+- Langkah perbaikan: Menjaga kesatuan, kepaduan, kelengkapan; mengeliminasi kalimat sumbang (kalimat yang tidak berhubungan dengan gagasan utama).
+Contoh studi kasus:
+Kalimat sumbang: "Kampus memiliki banyak ruangan untuk kegiatan belajar" di tengah paragraf tentang "Manfaat membaca bagi mahasiswa". Kalimat tersebut wajib dihilangkan agar paragraf memiliki kesatuan (unity).
