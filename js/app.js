@@ -314,8 +314,24 @@ class AppController {
   }
 
   shuffleAndRestartQuiz() {
-    window.QuizEngine.shuffleCurrentOptions();
+    window.QuizEngine.shuffleAllOptions();
+    
+    // Provide visual feedback on button
+    const btnLabel = document.getElementById('btn-shuffle-label');
+    if (btnLabel) {
+      const orig = btnLabel.textContent;
+      btnLabel.textContent = 'Pilihan Diacak! ✓';
+      setTimeout(() => {
+        btnLabel.textContent = orig;
+      }, 1500);
+    }
+
     this.renderQuizView();
+
+    const qNumBadge = document.getElementById('q-number-badge');
+    if (qNumBadge) {
+      qNumBadge.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
   }
 
   renderQuizView() {
@@ -373,29 +389,32 @@ class AppController {
     const promptText = document.getElementById('q-prompt-text');
     if (promptText) promptText.textContent = currentQ.question;
 
-    // Options Cards
+    // Options Cards using shuffled options
     const optionsContainer = document.getElementById('q-options-container');
     const userSelected = qe.answers[currentQ.id];
     const isRevealedInStudy = (qe.quizMode === 'study' && !!qe.revealedExplanations[currentQ.id]);
     const showAnswers = qe.isSubmitted || isRevealedInStudy;
 
-    optionsContainer.innerHTML = currentQ.options.map(opt => {
+    const options = qe.getOptions(currentQ.id);
+    const correctOpt = qe.getCorrectOption(currentQ.id);
+
+    optionsContainer.innerHTML = options.map(opt => {
       let optClass = 'mixd-option';
-      if (userSelected === opt.key) {
+      if (userSelected === opt.shuffledKey) {
         optClass += ' selected';
       }
 
       if (showAnswers) {
-        if (opt.key === currentQ.answer) {
+        if (opt.isCorrect) {
           optClass += ' correct-answer';
-        } else if (userSelected === opt.key && userSelected !== currentQ.answer) {
+        } else if (userSelected === opt.shuffledKey && !opt.isCorrect) {
           optClass += ' wrong-answer';
         }
       }
 
       return `
-        <div class="${optClass}" onclick="app.selectQuizOption(${currentQ.id}, '${opt.key}')">
-          <div class="mixd-option-letter">${opt.key}</div>
+        <div class="${optClass}" onclick="app.selectQuizOption(${currentQ.id}, '${opt.shuffledKey}')">
+          <div class="mixd-option-letter">${opt.shuffledKey}</div>
           <div class="text-sm sm:text-[15px] font-semibold leading-relaxed pt-0.5">
             ${opt.text}
           </div>
@@ -410,9 +429,22 @@ class AppController {
 
     if (showAnswers) {
       explBox.classList.remove('hidden');
-      explContent.textContent = currentQ.explanation;
+      
+      const isUserCorrect = (correctOpt && userSelected === correctOpt.shuffledKey);
+
+      let dynamicExpl = '';
+      if (correctOpt) {
+        dynamicExpl += `
+          <div class="p-3 mb-3 bg-white rounded-lg border-2 border-black/20 text-xs sm:text-sm font-bold text-emerald-800">
+            ✓ Kunci Pilihan Benar: <strong>[${correctOpt.shuffledKey}] ${correctOpt.text}</strong>
+          </div>
+        `;
+      }
+      dynamicExpl += `<div>${currentQ.explanation}</div>`;
+      explContent.innerHTML = dynamicExpl;
+
       if (explBadge) {
-        if (userSelected === currentQ.answer) {
+        if (isUserCorrect) {
           explBadge.className = 'px-2.5 py-1 rounded text-xs font-black uppercase tracking-wider bg-emerald-600 text-white border-2 border-black';
           explBadge.textContent = '✓ JAWABAN ANDA BENAR';
         } else if (userSelected) {
@@ -498,7 +530,8 @@ class AppController {
       if (isFlagged) btnClass += ' flagged';
 
       if (qe.isSubmitted) {
-        if (userAns === q.answer) {
+        const correctOpt = qe.getCorrectOption(q.id);
+        if (userAns && correctOpt && userAns === correctOpt.shuffledKey) {
           btnClass += ' correct';
         } else if (userAns) {
           btnClass += ' incorrect';

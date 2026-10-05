@@ -1,4 +1,4 @@
-// UTS Preparation Platform - Quiz Engine (Adapted from NetAcad Architecture)
+// UTS Preparation Platform - Quiz Engine (Robust Shuffling Architecture)
 
 class QuizEngine {
   constructor() {
@@ -8,10 +8,13 @@ class QuizEngine {
     this.filteredModule = 'all'; // 'all' or module ID
     this.activeQuestions = [];
 
-    // Answers & states
-    this.answers = {}; // { qId: selectedKey }
-    this.flagged = {}; // { qId: boolean }
-    this.revealedExplanations = {}; // { qId: boolean } (for Study Mode)
+    // Shuffled options map: { questionId: [ { originalKey, text, isCorrect, shuffledKey } ] }
+    this.shuffledOptionsMap = {};
+
+    // User answers & states
+    this.answers = {}; // { questionId: selectedShuffledKey }
+    this.flagged = {}; // { questionId: boolean }
+    this.revealedExplanations = {}; // { questionId: boolean } (for Study Mode)
     this.isSubmitted = false;
 
     // Exam timer state
@@ -24,32 +27,75 @@ class QuizEngine {
     this.tfAnswers = {};
     this.tfRevealed = {};
 
-    // Essay state
-    this.essayRevealed = {};
-
     this.onStateChangeCallback = null;
+
+    if (typeof window !== 'undefined' && (window.BINDO_DATA || window.AGAMA_DATA)) {
+      this.initActiveQuestions(false);
+    }
   }
 
   getCurrentDataset() {
     return this.currentSubject === 'BINDO' ? window.BINDO_DATA : window.AGAMA_DATA;
   }
 
-  initActiveQuestions() {
+  // Fisher-Yates array shuffler
+  static shuffleArray(array) {
+    const arr = [...array];
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
+  }
+
+  // Initialize or re-shuffle options for active questions
+  prepareOptions(shouldShuffle = false) {
+    const letters = ['A', 'B', 'C', 'D', 'E'];
+    this.activeQuestions.forEach(q => {
+      let rawOpts = q.options.map(opt => ({
+        originalKey: opt.key,
+        text: opt.text,
+        isCorrect: (opt.key === q.answer)
+      }));
+
+      if (shouldShuffle) {
+        rawOpts = QuizEngine.shuffleArray(rawOpts);
+      }
+
+      this.shuffledOptionsMap[q.id] = rawOpts.map((opt, idx) => ({
+        ...opt,
+        shuffledKey: letters[idx]
+      }));
+    });
+  }
+
+  getOptions(qId) {
+    if (!this.shuffledOptionsMap[qId]) {
+      const q = this.activeQuestions.find(item => item.id === qId);
+      if (q) {
+        const letters = ['A', 'B', 'C', 'D', 'E'];
+        this.shuffledOptionsMap[qId] = q.options.map((opt, idx) => ({
+          originalKey: opt.key,
+          text: opt.text,
+          isCorrect: (opt.key === q.answer),
+          shuffledKey: letters[idx]
+        }));
+      }
+    }
+    return this.shuffledOptionsMap[qId] || [];
+  }
+
+  getCorrectOption(qId) {
+    const opts = this.getOptions(qId);
+    return opts.find(o => o.isCorrect) || null;
+  }
+
+  initActiveQuestions(shouldShuffleOptions = false) {
     const dataset = this.getCurrentDataset();
     let list = [...dataset.multipleChoiceQuestions];
 
     if (this.filteredModule !== 'all') {
       const modNum = parseInt(this.filteredModule);
-      // In Bindo:
-      // Modul 1: Q1-5
-      // Modul 2: Q6-15
-      // Modul 3: Q16-23
-      // Modul 4: Q24-30
-      // In Agama:
-      // Modul 1: Q1-7
-      // Modul 2: Q8-15
-      // Modul 3: Q16-22
-      // Modul 4: Q23-30
       if (this.currentSubject === 'BINDO') {
         if (modNum === 1) list = list.filter(q => q.id >= 1 && q.id <= 5);
         else if (modNum === 2) list = list.filter(q => q.id >= 6 && q.id <= 15);
@@ -64,13 +110,15 @@ class QuizEngine {
     }
 
     this.activeQuestions = list;
+    this.prepareOptions(shouldShuffleOptions);
+
     if (this.currentIndex >= this.activeQuestions.length) {
       this.currentIndex = 0;
     }
   }
 
-  setSubject(subjectCode) {
-    if (this.currentSubject === subjectCode) return;
+  setSubject(subjectCode, force = false) {
+    if (this.currentSubject === subjectCode && !force && this.activeQuestions && this.activeQuestions.length > 0) return;
     this.currentSubject = subjectCode;
     this.resetAll();
   }
@@ -81,7 +129,6 @@ class QuizEngine {
       this.stopTimer();
       this.isExamActive = false;
     } else if (mode === 'exam') {
-      // Setup for exam mode
       this.isSubmitted = false;
       this.isExamActive = true;
       this.resetTimer();
@@ -92,22 +139,22 @@ class QuizEngine {
 
   setFilterModule(modVal) {
     this.filteredModule = modVal;
-    this.initActiveQuestions();
+    this.initActiveQuestions(false);
     if (this.onStateChangeCallback) this.onStateChangeCallback();
   }
 
-  shuffleCurrentOptions() {
-    this.activeQuestions.forEach(q => {
-      // Fisher-Yates shuffle options array
-      for (let i = q.options.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [q.options[i], q.options[j]] = [q.options[j], q.options[i]];
-      }
-    });
+  shuffleAllOptions() {
+    this.currentIndex = 0;
     this.answers = {};
     this.revealedExplanations = {};
     this.isSubmitted = false;
+    this.prepareOptions(true);
     if (this.onStateChangeCallback) this.onStateChangeCallback();
+  }
+
+  // Alias for compatibility
+  shuffleCurrentOptions() {
+    this.shuffleAllOptions();
   }
 
   resetAll() {
@@ -119,11 +166,12 @@ class QuizEngine {
     this.answers = {};
     this.flagged = {};
     this.revealedExplanations = {};
+    this.shuffledOptionsMap = {};
     this.tfAnswers = {};
     this.tfRevealed = {};
     this.essayRevealed = {};
     this.stopTimer();
-    this.initActiveQuestions();
+    this.initActiveQuestions(false);
     if (this.onStateChangeCallback) this.onStateChangeCallback();
   }
 
@@ -171,9 +219,9 @@ class QuizEngine {
     }
   }
 
-  selectOption(qId, key) {
+  selectOption(qId, shuffledKey) {
     if (this.isSubmitted && this.quizMode === 'exam') return;
-    this.answers[qId] = key;
+    this.answers[qId] = shuffledKey;
     if (this.onStateChangeCallback) this.onStateChangeCallback();
   }
 
@@ -224,10 +272,14 @@ class QuizEngine {
       const userAns = this.answers[q.id];
       if (!userAns) {
         unattempted++;
-      } else if (userAns === q.answer) {
-        correct++;
       } else {
-        wrong++;
+        const opts = this.getOptions(q.id);
+        const selectedOpt = opts.find(o => o.shuffledKey === userAns);
+        if (selectedOpt && selectedOpt.isCorrect) {
+          correct++;
+        } else {
+          wrong++;
+        }
       }
     });
 
