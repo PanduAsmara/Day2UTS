@@ -60,7 +60,7 @@ class AppController {
       if (heroTag) heroTag.textContent = 'KURIKULUM & MATERI RESMI PNJ 2026';
       if (heroTitle) heroTitle.innerHTML = 'BAHASA PERSATUAN,<br>BAHASA NEGARA.';
       if (heroDesc) {
-        heroDesc.innerHTML = 'Platform pembelajaran dan simulasi UTS terlengkap untuk mata kuliah <strong>Bahasa Indonesia (Dosen: Dinda Kadarwati, M.Pd)</strong>. Dilengkapi materi komprehensif Kelompok 1–4, ringkasan kata kunci, 30 soal PG analisis teks dengan bedah alasan opsi benar dan salah, 10 soal benar/salah EYD V, dan 10 soal esai analitis.';
+        heroDesc.innerHTML = 'Platform pembelajaran dan simulasi UTS terlengkap untuk mata kuliah <strong>Bahasa Indonesia</strong>. Dilengkapi materi komprehensif Kelompok 1–4, ringkasan kata kunci, 30 soal PG analisis teks dengan bedah alasan opsi benar dan salah, 10 soal benar/salah EYD V, dan 10 soal esai analitis.';
       }
       if (navTf) navTf.style.display = 'inline-block';
     } else {

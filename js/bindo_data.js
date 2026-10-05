@@ -4,7 +4,7 @@
 window.BINDO_DATA = {
   "subject": "Bahasa Indonesia",
   "code": "BINDO",
-  "instructor": "Dinda Kadarwati, M.Pd",
+  "instructor": "Mata Kuliah Bahasa Indonesia",
   "institution": "Politeknik Negeri Jakarta (PNJ)",
   "examInfo": {
     "title": "Simulasi Ujian Tengah Semester (UTS) Bahasa Indonesia",
